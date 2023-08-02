@@ -362,11 +362,11 @@ box-shadow: 0px 2px 6px 0px rgba(230,230,230,1);}
 -------------------------------------*/
 .footer { background-color: #262928; padding-top: 100px; padding-bottom: 100px; }
 .footer-widget p { color: #676f6c; }
-.footer-widget .widget-title { color: #fff; font-weight: 400; font-size:22px; letter-spacing: 2px;  padding-top: 10px; margin-top: 10px; }
+.footer-widget .widget-title { color: #fff; font-weight: 400; font-size:14px; letter-spacing: 1px;  padding-top: 1px; margin-top: 1px; }
 .footer-widget { }
 .footer-widget ul { }
 .footer-widget li { }
-.footer-widget li a { color: #676f6c; line-height: 34px; }
+.footer-widget li a { color: #676f6c; line-height: 24px; }
 .footer-widget li a:hover { color: #0eb769; }
 .footer-link { }
 .footer-social { }
